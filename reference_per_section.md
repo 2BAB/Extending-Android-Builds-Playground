@@ -54,7 +54,7 @@
 
 - [Gradle Project improvement](https://kotlinlang.org/docs/reference/whatsnew14.html#gradle-project-improvements)
 - [Gradle 6.8-rc-1 Release Note](https://docs.gradle.org/6.8-rc-1/release-notes.html#kotlin-dsl-performance)
-- [Improved *.gradle.kts IDE Support](https://blog.jetbrains.com/kotlin/2020/02/improved-gradle-kts-ide-support/)
+- [Improved \*.gradle.kts IDE Support](https://blog.jetbrains.com/kotlin/2020/02/improved-gradle-kts-ide-support/)
 - [Kotlin DSL 3-4x slower than Groovy DSL on FIRST USE on many simple projects build](https://github.com/gradle/kotlin-dsl-samples/issues/902)
 - [The Kotlin and Groovy DSLs should have similar performance characteristics](https://github.com/gradle/gradle/issues/15886)
 - [Decrease time for opening Gradle projects](https://youtrack.jetbrains.com/issue/KT-42311?_ga=2.18852921.1626115276.1611152242-10618198.1609658497)
@@ -89,7 +89,7 @@
 - [Authoring Tasks - @Gradle](https://docs.gradle.org/current/userguide/more_about_tasks.html#sec:task_input_output_validation)
 - [Developing Custom Gradle Task Types - @Gradle](https://docs.gradle.org/current/userguide/custom_tasks.html)
 - [Why no @InputDirectories annotation? - @Gradle](https://discuss.gradle.org/t/why-no-inputdirectories-annotation/8783/1)
-- [Add @InputDirectories annotation #5756 - @Gradle](https://github.com/gradle/gradle/issues/5756]
+- [Add @InputDirectories annotation #5756 - @Gradle](https://github.com/gradle/gradle/issues/5756)
 - [Gradle task inputs and outputs - @Tom Gregory](https://tomgregory.com/gradle-task-inputs-and-outputs/)
 
 
@@ -207,6 +207,7 @@
 - [Configuration cache - Gradle](https://docs.gradle.org/current/userguide/configuration_cache.html)
 - [Caching in the Android Build Process](https://proandroiddev.com/caching-in-the-android-build-process-a52641a66b31)
 - [Configuration On Demand](https://docs.gradle.org/current/userguide/multi_project_configuration_and_execution.html#sec:configuration_on_demand]
+)
 - [Receiving information about task execution](https://docs.gradle.org/7.4.2/userguide/build_services.html#operation_listener)
 - [autonomousapps/gradle-best-practices-plugin](https://github.com/autonomousapps/gradle-best-practices-plugin)
 - [liutikas/gradle-best-practices](https://github.com/liutikas/gradle-best-practices)
@@ -268,7 +269,7 @@
 
 ## 5-4
 
-- [BundleTool Gradle 插件](https://github.com/2BAB/bundle-tool-gradle-plugin)
+- [BundleTool Gradle Plugin](https://github.com/2BAB/bundle-tool-gradle-plugin)
 - [BundleTool](https://developer.android.com/tools/bundletool)
 - [BundleTool Build](https://developer.android.com/studio/build/building-cmdline?hl=zh-cn#bundletool-build)
 - [BundleTool Gradle Plugin Introduction](https://2bab.me/2021/12/19/bundle-tool-plugin)
@@ -292,7 +293,7 @@
 - [Docs - Kotlin Symbol Processing API﻿](https://kotlinlang.org/docs/ksp-overview.html)
 - [Talk - Kotlin Symbol Processing (Ting-Yuan Huang, the author of KSP)](https://www.youtube.com/watch?v=bv-VyGM3HCY)
 - [Kotlin Meta-Programming：From the Annotation Prcoessor of KAPT to KSP](https://www.bilibili.com/video/BV1JY411H7pb?vd_source=7d02d0c6cd783fe64a99f3c7464fb242)
-- [[Kotlin Compiler：What are we looking for？2021.7.8](https://www.bilibili.com/video/BV1Tf4y157ku?vd_source=7d02d0c6cd783fe64a99f3c7464fb242)
+- [Kotlin Compiler：What are we looking for？2021.7.8](https://www.bilibili.com/video/BV1Tf4y157ku?vd_source=7d02d0c6cd783fe64a99f3c7464fb242)
 - [KSP and Plugins. Optimizing Kotlin Multiplatform common code with Anna Zharkova](https://www.youtube.com/watch?v=8HuucG_xn-c)
 - [Visitor Pattern](https://refactoringguru.cn/design-patterns/visitor)
 - [Android Build Optimization for KAPT](https://juejin.cn/post/7070849501166059551)
