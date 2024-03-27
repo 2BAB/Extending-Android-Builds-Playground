@@ -1,3 +1,3 @@
-# Extending-Android-Builds
+# Extending Android Builds
 
-This is the code repository for *Extending-Android-Builds: A Gradle and Android Gradle Plugin Primer*.
+This is the repository of samples and materials for *Extending Android Builds: Pragmatic Gradle and AGP Skills with Kotlin*.
